@@ -1,0 +1,5 @@
+_main: CODE, 24 0 420
+_high_isr: CODE, 8 0 562
+__initialization: CODE, 596 0 2
+_init_timer0: CODE, 570 0 26
+Total: 1010

@@ -1,0 +1,18 @@
+_i2c_ack: CODE, 2508 0 24
+_i2c_start: CODE, 2612 0 12
+_load_string: CODE, 2380 0 62
+_i2c_receive: CODE, 2532 0 22
+_send_data: CODE, 2012 0 138
+_main: CODE, 1830 0 182
+main@F4176: SMALLCONST, 1536 0 64
+_epulse: CODE, 2576 0 12
+_write_page: CODE, 2280 0 100
+_i2c_idle: CODE, 2554 0 22
+__initialization: CODE, 2624 0 0
+_init_lcd: CODE, 1602 0 228
+_i2c_rstart: CODE, 2600 0 12
+_i2c_stop: CODE, 2588 0 12
+_i2c_init: CODE, 2478 0 30
+_read_page: CODE, 2150 0 130
+_i2c_send: CODE, 2442 0 36
+Total: 1086
